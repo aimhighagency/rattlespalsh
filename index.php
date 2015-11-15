@@ -21,7 +21,7 @@
 
 				<div class="header">
 					<h3>World's first <a href="http://www.drinkhacker.com/2015/10/20/tasting-lost-spirits-whiskey-experiments/">flash crafted</a> whiskey.</h3>
-					<h1><img src="/images/Rattleback-logo-rye.svg" alt="Rattleback Logo Rye" /></h1>
+					<h1><img src="/images/Rattleback-logo-rye.png" alt="Rattleback Logo Rye" /></h1>
 					<h2>(R)evolution of the American Spirit.</h2>
 				</div>
 
